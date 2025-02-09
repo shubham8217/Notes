@@ -9,7 +9,7 @@ Sidha sidha bole toh badiya language h bass ye yaad rakhna bjarne bhava ne banay
 #include<iostream>
 using namespace std;(kyuke cout cin pe likhna std pehle likhna padta tha)
 
-For printing we use cout
+For printing we use cout and for scanning we use cin 
 
 
 
